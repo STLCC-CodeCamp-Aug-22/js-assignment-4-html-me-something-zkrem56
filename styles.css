@@ -1,1 +1,19 @@
 /* Write your CSS here! */
+body {
+    text-align: center;
+    background-color: tan;
+}
+
+#college{
+    background-color: rgb(211, 3, 3);
+    color: tan;
+    padding-bottom: 5px;
+    padding-top: 1px;
+}
+
+#HS {
+    background-color: maroon;
+    color: tan;
+    padding-bottom: 20px;
+    padding-top: 1px;
+}
