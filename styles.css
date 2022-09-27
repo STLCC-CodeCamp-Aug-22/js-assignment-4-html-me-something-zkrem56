@@ -2,3 +2,12 @@
 body {
     text-align: center;
 }
+
+#college{
+    background-color: rgb(211, 3, 3);
+}
+
+#HS {
+    background-color: maroon;
+    color: white;
+}
